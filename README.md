@@ -29,7 +29,7 @@
 }
 ```
 
-- Create
+- Update
 
 ```js
  mutation {
